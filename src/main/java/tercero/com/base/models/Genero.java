@@ -1,0 +1,23 @@
+package tercero.com.base.models;
+
+public class Genero {
+    private Integer id;
+    private String nombreg;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+
+    public String getNombre() {
+        return nombreg;
+    }
+
+    public void setNombre(String nombreg) {
+        this.nombreg = nombreg;
+    }
+    
+}

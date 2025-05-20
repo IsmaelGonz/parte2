@@ -1,0 +1,70 @@
+[
+    {
+        "id": 2,
+        "nombre": "$$$",
+        "id_genero": 2,
+        "duracion": 115,
+        "url": "cancion#1",
+        "tipo": "digital",
+        "id_album": 2
+    },
+    {
+        "id": 3,
+        "nombre": "She Knows",
+        "id_genero": 3,
+        "duracion": 220,
+        "url": "cancion#2",
+        "tipo": "digital",
+        "id_album": 3
+    },
+    {
+        "id": 4,
+        "nombre": "Goin",
+        "duracion": 777,
+        "url": "cancion3",
+        "tipo": "digital"
+    },
+    {
+        "id": 5,
+        "nombre": "el que sabe",
+        "duracion": 233,
+        "url": "cancion4",
+        "tipo": "digital"
+    },
+    {
+        "id": 6,
+        "nombre": "La quemona",
+        "id_genero": 2,
+        "duracion": 111,
+        "url": "cancion5",
+        "tipo": "digital",
+        "id_album": 2
+    },
+    {
+        "id": 7,
+        "nombre": "la quemona 2",
+        "id_genero": 1,
+        "duracion": 222,
+        "url": "cancion6",
+        "tipo": "digital",
+        "id_album": 2
+    },
+    {
+        "id": 7,
+        "nombre": "asfasdf",
+        "id_genero": 1,
+        "duracion": 3231,
+        "url": "cancion/7",
+        "tipo": "FISICO",
+        "id_album": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Nueva cancion",
+        "id_genero": 1,
+        "duracion": 122,
+        "url": "cancion/8",
+        "tipo": "FISICO",
+        "id_album": 1
+    }
+]
